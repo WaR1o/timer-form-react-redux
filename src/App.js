@@ -4,7 +4,7 @@ import ReactDOM from "react-dom";
 const App = () => {
   return (
     <div>
-      <p>Webpack Hometask</p>
+      <p>Timer form</p>
     </div>
   );
 };
